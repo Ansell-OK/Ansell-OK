@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @Ansell-OK
-- 👀 I’m interested in Machine Learning, Artificial Intelligence and Cyber Security
-- 🌱 I’m currently learning Data Science, Artificial Intelligence and Software Development
+## 👋 Hola Mis Amigos, Welcome to My Git
+
+- My name's Ansell.
+- I do the rthing with the code and the code editor👨🏽‍💻
+- Proud owner of a German Shepherd🐕‍🦺
+- AI enthusiat🤖🤓
+
+That's about it. Have fun.
+
+**PS**: Project **IDV** in the works🤓💫
+  
+  
 
 
 <!---
