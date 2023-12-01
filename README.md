@@ -1,7 +1,7 @@
 ## 👋 Hola Mis Amigos, Welcome to My Git
 
 - My name's Ansell.
-- I do the rthing with the code and the code editor👨🏽‍💻
+- I do the thing with the code and the code editor👨🏽‍💻
 - Proud owner of a German Shepherd🐕‍🦺
 - AI enthusiat🤖🤓
 
