@@ -1,4 +1,4 @@
-## 👋 Hola Mis Amigos, Welcome to My Git
+## 👋 Hola Mis Amigos, Welcome to My Git, Well My Github Page.
 
 - My name's Ansell.
 - I do the thing with the code and the code editor👨🏽‍💻
@@ -7,7 +7,6 @@
 
 That's about it. Have fun.
 
-**PS**: Project **IDV** in the works🤓💫
   
   
 
