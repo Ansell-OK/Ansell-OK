@@ -1,4 +1,4 @@
-## 👋 Hola Mis Amigos, Welcome to My Git, Well My Github Page.
+## 👋 Hola Mis Amigos
 
 - My name's Ansell.
 - I do the thing with the code and the code editor👨🏽‍💻
